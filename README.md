@@ -15,7 +15,7 @@ Use numbers (0..9) to create so-called 'female' lines, all other characters will
 
 ## Examples
 
-    AA11BB22:
+AA11BB22
     Оно желудку моему
     И чем живет, и почему
     Встает заря во мгле холодной
@@ -26,7 +26,7 @@ Use numbers (0..9) to create so-called 'female' lines, all other characters will
     (Что я шутя твердил доселе)?
 
 
-    AAA11BBB22:
+AAA11BBB22
     Подробно обо всем отдам
     По их пленительным следам
     На ложи незнакомых дам
@@ -38,7 +38,7 @@ Use numbers (0..9) to create so-called 'female' lines, all other characters will
     Да кстати, здесь о том два слова:
     Да, слава богу, ты здорова!
 
-    AA1BB1AA2BB2
+AA1BB1AA2BB2
     Потом понравились; потом
     То кратким словом, то крестом
     Когда б семейственной картиной
