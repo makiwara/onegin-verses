@@ -5,6 +5,10 @@ Run `python onegin.py`
 
 If your local python is 3.x already, I pity you.
 
+## Authors
+All the brightest idea by Lisa Bylinina.
+All the ugliest implementation by Nikolay Yaremko.
+
 
 ## Syntax
 The syntax is pretty simple:
