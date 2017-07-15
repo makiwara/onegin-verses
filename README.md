@@ -6,6 +6,8 @@ Run `python onegin.py`
 If your local python is 3.x already, I pity you.
 
 ## Authors
+All the fabulous verses by Alexander Pushkin.
+All the finest translations by James E. Falen.
 All the brightest idea by Lisa Bylinina.
 All the ugliest implementation by Nikolay Yaremko.
 
@@ -13,7 +15,7 @@ All the ugliest implementation by Nikolay Yaremko.
 ## Syntax
 The syntax is pretty simple:
 
-You will be asked for a sequence of characters. Each character represents single line of verse. Same characters will result in rhyming lines. 
+You will be asked for a sequence of characters. Each character represents single line of verse. Same characters will result in rhyming lines.
 
 Use numbers (0..9) to create so-called 'female' lines, all other characters will be treated as 'male' ones.
 
