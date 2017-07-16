@@ -68,5 +68,8 @@ def merge_fixes(from_name, to_name):
     with codecs.open("%s.txt" % to_name, "w", encoding='utf-8') as fo:
         fo.write("\n".join(composition))
 
-prepare_fixes("falen")
-#merge_fixes("falen", "falen-from-fix")
+#prepare_fixes("falen")
+# merge_fixes("falen", "falen-from-fix-1")
+# prepare_fixes("falen-from-fix-1")
+merge_fixes("falen-from-fix-1", "falen-from-fix-2")
+prepare_fixes("falen-from-fix-2")
