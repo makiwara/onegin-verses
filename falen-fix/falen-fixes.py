@@ -73,5 +73,5 @@ def merge_fixes(from_name, to_name):
 # prepare_fixes("falen-from-fix-1")
 # merge_fixes("falen-from-fix-1", "falen-from-fix-2")
 # prepare_fixes("falen-from-fix-2")
-merge_fixes("falen-from-fix-2", "falen-from-fix-final")
-prepare_fixes("falen-from-fix-final")
+# merge_fixes("falen-from-fix-2", "falen-from-fix-final")
+# prepare_fixes("falen-from-fix-final")
