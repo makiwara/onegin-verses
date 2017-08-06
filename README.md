@@ -87,7 +87,7 @@ AABBAABBABAB
     Would one day shine upon our race
     ('Mechanically', as people say),
 
-ABABCDCDABABC
+ABABCDCDABA
 
     A butterfly in blooms of May;
     Through all her years since cradle days,
