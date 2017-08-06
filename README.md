@@ -1,9 +1,18 @@
 # onegin-verses
 Verses made of Eugeni Onegin in Russian (included)
 
-Run `python onegin.py`
+Run `python onegin.py` or `python james.py`
 
-If your local python is 3.x already, I pity you.
+Python 2.7 is supported, Python 3.0 is not. Sorry.
+
+## NB: English is not validated in full!
+
+Validation of rhyming is in process. Help is welcome.
+Please join our kitchen: https://telegram.me/onegin_kitchen
+
+* Lines accessible: 1379
+* Lines to validate: 3707
+
 
 ## Authors
 All the fabulous verses by Alexander Pushkin.
@@ -60,3 +69,16 @@ AA1BB1AA2BB2
     И незваных гостей бранит
     Иль розы пламенных ланит
     Бухарцы, сани, огороды
+
+## Examples in English
+
+AA11BB22
+
+    In French he could and did acutely
+    And bows he'd mastered absolutely.
+    Sees her at once! Her harshness stuns him!
+    Without a word the lady shuns him!
+    He waits.... At last his guest approaches:
+    But as the rural dusk encroaches,
+    As did the skeptical old fool,
+    (Faublas' disciple and his tool),

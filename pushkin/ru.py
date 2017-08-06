@@ -60,7 +60,7 @@ def make_groups(lines):
 
 # to get raw onegin source
 def onegin():
-    f = open("evgeny.txt", 'r') #mode="r", encoding="utf-8")
+    f = open("evgeny.txt", 'r')
     s = [line.decode('utf-8') for line in f]
     return s
 

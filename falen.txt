@@ -223,7 +223,7 @@ Have asked him to a grand soire.
 There'll be a ball, a children's party;
 Where will he dash to, my good hearty?
 Where will he make the night's first call?
-Oh, never mindhe'll make them all.
+Oh, never mind he'll make them all.
 But meanwhile, dressed for morning pleasure,
 Bedecked in broad-brimmed Bolivar,
 He drives to Nevsky Boulevard,
@@ -637,7 +637,7 @@ The emptiness that plagues his soul
 By making his the thoughts of others
 A laudable and worthy goal.
 He crammed his bookshelf overflowing,
-Then read and readfrustration growing:
+Then read and read frustration growing:
 Some raved or lied, and some were dense;
 Some lacked all conscience; some, all sense;
 Each with a different dogma girded;
@@ -685,7 +685,7 @@ When midnight sky is limpid-light
 Above the Neva's placid water
 The river gay and sparkling bright,
 Yet in its mirror not reflecting
-Diana's visagerecollecting
+Diana's visage recollecting
 The loves and intrigues of the past,
 Alive once more and free at last,
 We drank in silent contemplation
@@ -990,7 +990,7 @@ Another squire chose this season
 To reappear at his estate
 And gave the neighbours equal reason
 For scrutiny no less irate.
-Vladimir Lnsky, just returning
+Vladimir Lensky, just returning
 From Gottingen with soulful yearning,
 Was in his primea handsome youth
 And poet filled with Kantian truth.
@@ -1287,7 +1287,7 @@ Our taste in names is less than weak
 (Of verses I won't even speak);
 Enlightenment has failed to mend us,
 And all we've learned from its great store
-Is affectationnothing more.
+Is affectation — nothing more.
 
 25
 So she was called Tatyana, reader.
@@ -2042,11 +2042,12 @@ I give it here in feeble dress:
 A living picture's pallid double,
 Or Freischutz played with timid skill
 By fingers that are learning still.
-Tatyana's Letter to Onegin
+
+TATYANA'S LETTER TO ONEGIN
 I'm writing you this declaration
 What more can I in candour say?
-It may be now your inclination T
-o scorn me and to turn away;
+It may be now your inclination
+To scorn me and to turn away;
 But if my hapless situation
 Evokes some pity for my woe,
 You won't abandon me, I know.
@@ -2054,7 +2055,7 @@ I first tried silence and evasion;
 Believe me, you 'd have never learned
 My secret shame, had I discerned
 The slightest hope that on occasion
-But once a weekI'd see your face,
+But once a week I'd see your face,
 Behold you at our country place,
 Might hear you speak a friendly greeting,
 Could say a word to you; and then,
@@ -2232,7 +2233,7 @@ To glance behind her; on she pushes
 Past garden plots, small bridges, lawn,
 The lakeway path, the wood; and on
 She flies and breaks through lilac bushes,
-Past seedbeds to the brookso fast
+Past seedbeds to the brook so fast
 That, panting, on a bench at last
 
 39
@@ -2250,7 +2251,8 @@ To keep sly mouths from feeling free
 To eat the master's fruit when hidden,
 By filling them with song instead
 For rural cunning isn't dead!)
-The Girls' Song
+
+THE GIRLS' SONG
 'Lovely maidens, pretty ones,
 Dearest hearts and darling friends,
 Romp away, sweet lassies, now,
@@ -2679,7 +2681,7 @@ You libraries of darkest Hades
 And racks where modish rhymesters wilt,
 You volumes nimbly ornamented
 By Tolstoy's magic brush, and scented
-By Baratynsky's penI vow:
+By Baratynsky's pen I vow:
 Let God's own lightning strike you now!
 Whenever dazzling ladies proffer
 Their quartos to be signed by me,
@@ -2866,8 +2868,8 @@ To fall like stars upon the ground.
 
 43
 But how is one, in this dull season,
-To help the rural day go by? Take walks?
-The views give little reason,
+To help the rural day go by?
+Take walks? The views give little reason,
 When only bareness greets the eye.
 Go ride the steppe's harsh open spaces?
 Your mount, if put to try his paces
@@ -3307,7 +3309,7 @@ Eugene throws wide the door, revealing
 To monstrous looks and hellish squealing
 Her slender form; fierce cackles sound
 In savage glee; all eyes turn round,
-All hooves and trunksgrotesque and curving,
+All hooves and trunks grotesque and curving,
 And whiskers, tusks, and tufted tails,
 Red bloody tongues and snouts and nails,
 Huge horns and bony fingers swerving
@@ -3395,8 +3397,8 @@ For several days she couldn't find
 A way to calm her troubled mind.
 
 25
-But lo! . . . with crimson hand
-Aurora Leads forth from morning dales the sun
+But lo! . . . with crimson hand Aurora
+Leads forth from morning dales the sun
 And brings in merry mood before her
 The name-day feast that's just begun.
 Since dawn Dame Larin's near relations
@@ -4059,8 +4061,8 @@ Meanwhile Zaretsky, born mechanic,
 Was carping at the millstone's cam.
 Onegin, late, made explanation.
 Zaretsky frowned in consternation:
-'Good God, man, where's your second?
-Where?' In duels a purist doctrinaire,
+'Good God, man, where's your second? Where?'
+In duels a purist doctrinaire,
 Zaretsky favoured stout reliance
 On proper form; he'd not allow
 Dispatching chaps just anyhow,
@@ -4153,12 +4155,12 @@ He lay quite still and past all feeling;
 His languid brow looked strange at rest.
 The steaming blood poured forth, revealing
 The gaping wound beneath his breast.
-One moment backa breath's duration
+One moment back a breath's duration
 This heart still throbbed with inspiration;
 Its hatreds, hopes, and loves still beat,
 Its blood ran hot with life's own heat.
 But now, as in a house deserted,
-Inside itall is hushed and stark,
+Inside it all is hushed and stark,
 Gone silent and forever dark.
 The window boards have been inserted,
 The panes chalked white. The owner's fled;
@@ -4329,13 +4331,13 @@ I've learned the voice of new desires
 And come to know a new regret;
 The first within me light no fires,
 And I lament old sorrows yet.
-O dreams!
-Where has your sweetness vanished?
+O dreams! Where has your sweetness vanished?
 And where has youth (glib rhyme) been banished?
 Can it be true, its bloom has passed,
 Has withered, withered now at last?
 Can it be true, my heyday's ended
-All elegiac play aside That now indeed my spring has died
+All elegiac play aside
+That now indeed my spring has died
 (As I in jest so oft pretended)?
 And is there no return of youth?
 Shall I be thirty soon, in truth?
@@ -5200,8 +5202,8 @@ I sing strange whims and aberrations,
 I sing a youthful friend of mine.
 O Muse of Epics, may you shine
 On my long work as I grow older!
-And armed with your good staff,
-I pray, May I not roam too far astray.
+And armed with your good staff, I pray,
+May I not roam too far astray.
 Enough! The burden's off my shoulder!
 To classicism I've been true:
 The foreword's here, if overdue.
@@ -5473,8 +5475,8 @@ But I'll present you now with joy.'
 18
 'You're married! Really?'' On my honour.
 ''To whom? How long?'' Some two years since . . .
-The Larin girl.'' You mean Tatyana! ''She knows you?''
-We were neighbours, Prince.'
+The Larin girl.'' You mean Tatyana!
+''She knows you?'' We were neighbours, Prince.'
 'Well then, come on . . . we'll go and meet her.'
 And so the prince led up to greet her
 His kinsman and his friend Eugene.
@@ -5625,8 +5627,8 @@ We've got to have forbidden fruit,
 Or Eden's joys for us are moot.
 
 28
-How changed Tatyana is!
-How surely She's taken up the role she plays!
+How changed Tatyana is! How surely
+She's taken up the role she plays!
 How quick she's mastered, how securely,
 Her lordly rank's commanding ways!
 Who'd dare to seek the tender maiden
@@ -5703,7 +5705,8 @@ In missives writ in love's defence
 (And with good cause!), he found it better
 Than bearing all his pain unheard.
 So here's his letter word for word.
-Onegin's Letter to Tatyana
+
+ONEGIN'S LETTER TO TATYANA
 I know you'll feel a deep distress
 At this unwanted revelation.
 What hitter scorn and condemnation
