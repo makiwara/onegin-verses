@@ -5,7 +5,7 @@ import random
 
 ONEGIN_STRUCTURE = "A1A1BB22C33CDD"
 KNOWN_TAILS = [
-    ["+", "ing", "embly"],
+    ["ing", "embly"],
     ["ings"],
     ["call"],
     ["ast"],

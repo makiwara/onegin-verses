@@ -72,13 +72,31 @@ AA1BB1AA2BB2
 
 ## Examples in English
 
-AA11BB22
+AABBAABBABAB
 
-    In French he could and did acutely
-    And bows he'd mastered absolutely.
-    Sees her at once! Her harshness stuns him!
-    Without a word the lady shuns him!
-    He waits.... At last his guest approaches:
-    But as the rural dusk encroaches,
-    As did the skeptical old fool,
-    (Faublas' disciple and his tool),
+    On granting him his resting place
+    Were sure to bring a mocking gaze
+    Her morning tea upon a tray.
+    Tatyana and your Olga, pray?
+    Adrift in idle, slothful ways;
+    As from the meadow your light trace.
+    Or borrow then from me, let's say.'
+    That Freedom's Champion went astray.
+    How sad is faded passion's trace! . . .
+    Some cards with me to pass the day.
+    Would one day shine upon our race
+    ('Mechanically', as people say),
+
+ABABCDCDABABC
+
+    A butterfly in blooms of May;
+    Through all her years since cradle days,
+    A fleeing hare would cross her way,
+    To melt with pain before your face,
+    To look at life as at a rite,
+    Eugene, detesting litigation
+    To whisper hope and sweet delight?
+    And once, when riding battle station,
+    Thus stormy shadows cloak with grey
+    Brief passages from Nordic lays;
+    And uncurbed passions ruled the day.
