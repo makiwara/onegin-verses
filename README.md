@@ -5,14 +5,6 @@ Run `python onegin.py` or `python james.py`
 
 Python 2.7 is supported, Python 3.0 is not. Sorry.
 
-## NB: English is not validated in full!
-
-Validation of rhyming is in process. Help is welcome.
-Please join our kitchen: https://telegram.me/onegin_kitchen
-
-* Lines accessible: 1379
-* Lines to validate: 3707
-
 
 ## Authors
 All the fabulous verses by Alexander Pushkin.
@@ -28,7 +20,7 @@ You will be asked for a sequence of characters. Each character represents single
 
 Use numbers (0..9) to create so-called 'female' lines, all other characters will be treated as 'male' ones.
 
-## Examples
+## Examples in Russian
 
 AA11BB22
 
@@ -72,31 +64,31 @@ AA1BB1AA2BB2
 
 ## Examples in English
 
-AABBAABBABAB
+AA11BB22
 
-    On granting him his resting place
-    Were sure to bring a mocking gaze
-    Her morning tea upon a tray.
-    Tatyana and your Olga, pray?
-    Adrift in idle, slothful ways;
-    As from the meadow your light trace.
-    Or borrow then from me, let's say.'
-    That Freedom's Champion went astray.
-    How sad is faded passion's trace! . . .
-    Some cards with me to pass the day.
-    Would one day shine upon our race
-    ('Mechanically', as people say),
+    Amid his pleasures and their blaze,
+    Or hint of inner lyric grace;
+    Your candour has a great appeal
+    Upon the modish word 'ideal',
+    But neither whist, nor gossip there,
+    He opens up a door. . . . What's there:
+    The humble sinner Dmitry Larin
+    He was a kind and simple barin.
 
-ABABCDCDABA
 
-    A butterfly in blooms of May;
-    Through all her years since cradle days,
-    A fleeing hare would cross her way,
-    To melt with pain before your face,
-    To look at life as at a rite,
-    Eugene, detesting litigation
-    To whisper hope and sweet delight?
-    And once, when riding battle station,
-    Thus stormy shadows cloak with grey
-    Brief passages from Nordic lays;
-    And uncurbed passions ruled the day.
+A1A1BB22C33CDD
+
+    Good God, man, don't you find it wearing?
+    Believe me, you 'd have never learned
+    Like any poet open, caring,
+    My secret shame, had I discerned.
+    You fortunate procrastinators,
+    Now is the time, you hibernators,
+    They'd shed a tender tear or two,
+    And these suggest a spa or two.
+    I'll never let that foul depraver
+    When in a frenzied state indeed,
+    And lifting up her veil, she'll read
+    'It's up to me,' he thought, 'to save her.
+    'Good gracious, how the years do fly!'
+    And wallow, friends, both you and I!
