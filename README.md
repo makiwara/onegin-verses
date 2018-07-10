@@ -1,5 +1,6 @@
 # onegin-verses
-Verses made of Eugeni Onegin in Russian (included)
+
+Verses made of Pushkin’s ‘Eugeni Onegin’ in both Russian and English.
 
 Run `python onegin.py` or `python james.py`
 
