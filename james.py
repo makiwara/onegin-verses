@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from pushkin import en_pushkinize, falen, en_tail
+from pushkin import en_pushkinize, falen
 
 style = raw_input('Verse structure (AA11BB22)-> ')
 if style == '':
@@ -9,6 +9,8 @@ letters = en_pushkinize(falen(), style)
 
 print
 for letter in style:
-    print letters[letter]["lines"][ letters[letter]["pos"] ]["line"]
+    lines = letters[letter]["lines"]
+    pos   = letters[letter]["pos"]
+    print lines[pos]
     letters[letter]["pos"]+=1
 print

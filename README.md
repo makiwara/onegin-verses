@@ -10,11 +10,12 @@ Python 2.7 is supported, Python 3.0 is not. Sorry.
 All the fabulous verses by Alexander Pushkin.
 All the finest translations by James E. Falen.
 All the brightest idea by Lisa Bylinina.
-All the ugliest implementation by Nikolay Yaremko.
+All the cleanest rhyming solution from Ian Overgard.
+All the ugliest sticking-it-all-together by Nikolay Yaremko.
 
 
 ## Syntax
-The syntax is pretty simple:
+The syntax is pretty simple.
 
 You will be asked for a sequence of characters. Each character represents single line of verse. Same characters will result in rhyming lines.
 
@@ -64,6 +65,13 @@ AA1BB1AA2BB2
 
 ## Examples in English
 
+A1A1
+
+    The time of day by teas and dinners
+    Recall Moi'na . . . and rejoice
+    By supper's call. We country sinners
+    I hear at last your magic voice!
+
 AA11BB22
 
     Amid his pleasures and their blaze,
@@ -74,7 +82,6 @@ AA11BB22
     He opens up a door. . . . What's there:
     The humble sinner Dmitry Larin
     He was a kind and simple barin.
-
 
 A1A1BB22C33CDD
 
